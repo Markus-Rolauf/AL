@@ -1,6 +1,6 @@
 
 
-trait Evaluabe {
+trait Evaluable {
   def eval : Boolean
   
 }

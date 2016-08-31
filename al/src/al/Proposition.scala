@@ -1,6 +1,6 @@
 
 
-abstract class Proposition extends Evaluabe{
+abstract class Proposition extends Evaluable{
    def eval: Boolean
 }
 
